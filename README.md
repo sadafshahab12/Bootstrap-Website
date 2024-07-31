@@ -1,5 +1,4 @@
 # Bootstrap-Website
-create a website with bootstrap frame work
 <br>
 Created Bootstrap Website by using:
 <br>
